@@ -56,7 +56,7 @@ body {
 /*Фон сверху*/
 .HallBackgroung {
     display: flex;
-    background-image: url('assets/hall.jpg');
+    background-image: url('img/hall.jpg');
     background-size: cover; /* Растягиваем изображение, сохраняя пропорции */
     background-position: center; /* Центрируем изображение */
     background-repeat: no-repeat; /* Не повторяем изображение */
